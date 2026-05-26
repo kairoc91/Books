@@ -8,7 +8,7 @@ int main(){
 
     increase = wage * (25.0 / 100.0);
 
-    printf("%.2f\n", increase);
+    printf("Increase 25%%: %.2f\n", increase);
 
     newwage = wage + increase;
 
