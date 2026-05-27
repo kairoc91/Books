@@ -1,3 +1,5 @@
-# Livros
-1. livro-01 == Lógica de programação e algoritmos com JavaScript;
-2. livro-02 == Fundamentos da programação de computadores: algoritmos, PASCAL, C/C++ (padrão ANSI) e JAVA;
+# Books
+
+[pending] 001-book == Lógica de programação e algoritmos com JavaScript;
+*[in progress]* 002-book == Fundamentos da programação de computadores: algoritmos, PASCAL, C/C++ (padrão ANSI) e JAVA;
+[pending] 003-book == Grokking Algorithms;
